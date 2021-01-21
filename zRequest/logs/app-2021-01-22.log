@@ -1,0 +1,11 @@
+{"time":"2021-01-22 00:46:58","pid":23001,"level":"info","message":"9999"}
+{"time":"2021-01-22 00:47:20","pid":23047,"level":"info","message":"9999"}
+{"time":"2021-01-22 00:47:50","pid":23092,"level":"info","message":"process.env.debug undefined"}
+{"time":"2021-01-22 00:48:32","pid":23136,"level":"info","message":"process.env.debug undefined"}
+{"time":"2021-01-22 00:49:06","pid":23170,"level":"info","message":"process.env.debug undefined"}
+{"time":"2021-01-22 00:49:52","pid":23236,"level":"info","message":"process.env.debug undefined"}
+{"time":"2021-01-22 00:50:25","pid":23279,"level":"info","message":"process.env.debug undefined"}
+{"time":"2021-01-22 00:50:42","pid":23322,"level":"info","message":"process.env.debug 1"}
+{"time":"2021-01-22 00:52:04","pid":23413,"level":"info","message":"process.env.debug 1"}
+{"time":"2021-01-22 00:53:24","pid":23510,"level":"info","message":"process.env.debug 1"}
+{"time":"2021-01-22 00:53:57","pid":23557,"level":"error","message":"process.env.debug 1"}
