@@ -1,7 +1,7 @@
 /*
  * @Author: zhangpeiyu
  * @Date: 2021-01-21 23:56:43
- * @LastEditTime: 2021-01-22 00:53:14
+ * @LastEditTime: 2021-01-23 20:04:32
  * @Description: 我不是诗人，所以，只能够把爱你写进程序，当作不可解的密码，作为我一个人知道的秘密。
  */
 import * as winston from 'winston'
@@ -39,8 +39,8 @@ const formatter = winston.format.combine(
     winston.format.printf(info => {
         // 输出格式
         // TODO message字段是Symbol对象，对于error级的日志，需要遍历message的Symbol拿到error对象
-        const showInfo = { time: info.timestamp, pid: process.pid, level: info.level, message: info.message };
-        return JSON.stringify(showInfo)
+        const showInfo = info.level + ': ' + info.timestamp + ': message=> ' + info.message ;
+        return showInfo
     })
 )
 

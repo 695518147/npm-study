@@ -1,0 +1,22 @@
+{
+  "name": "ztenpay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.4.1",
+    "crypto": "^1.0.1",
+    "form-data": "^3.0.0",
+    "got": "^11.8.1",
+    "oauth-1.0a": "^2.2.6",
+    "tunnel": "0.0.6",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.0",
+    "xml2js": "^0.4.23"
+  }
+}

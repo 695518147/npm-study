@@ -1,0 +1,69 @@
+[info] 2021-01-24 03:53:49: [kSz2OapjuSAcSHtA]post data =>
+<?xml version="1.0"?>
+<xml>
+  <mch_id>1230000109</mch_id>
+  <nonce_str>GfBkBeoWZaZFmsCL</nonce_str>
+  <sign>D0D6B81080610D9BE549694F71AED89B</sign>
+</xml>
+
+[error] 2021-01-24 03:53:49: [object Promise]
+[info] 2021-01-24 03:54:19: [kSz2OapjuSAcSHtA]receive data =>
+<xml>
+  <return_code><![CDATA[FAIL]]></return_code>
+  <retmsg><![CDATA[请确认请求参数是否正确merchant invalid mch_id(1230000109)]]></retmsg>
+  <retcode><![CDATA[1]]></retcode>
+</xml>
+
+[error] 2021-01-24 03:54:19: receive data => {"return_code":"FAIL","retmsg":"请确认请求参数是否正确merchant invalid mch_id(1230000109)","retcode":"1"}
+[error] 2021-01-24 03:54:19: pay err Error: XMLDataError
+[info] 2021-01-24 03:56:18: [TYz2uTUnxycZPUSs]post data =>
+<?xml version="1.0"?>
+<xml>
+  <mch_id>1230000109</mch_id>
+  <nonce_str>5PfdBdiCDivG0xMs</nonce_str>
+  <sign>B5E60AD919C4316FE8B75DA64149AF5E</sign>
+</xml>
+
+[info] 2021-01-24 03:56:48: [TYz2uTUnxycZPUSs]receive data =>
+<xml>
+  <return_code><![CDATA[FAIL]]></return_code>
+  <retmsg><![CDATA[请确认请求参数是否正确merchant invalid mch_id(1230000109)]]></retmsg>
+  <retcode><![CDATA[1]]></retcode>
+</xml>
+
+[error] 2021-01-24 03:56:48: receive data => {"return_code":"FAIL","retmsg":"请确认请求参数是否正确merchant invalid mch_id(1230000109)","retcode":"1"}
+[error] 2021-01-24 03:56:48: pay err Error: XMLDataError
+[info] 2021-01-24 19:16:50: [e3Vy2JOSzO6FEEsl]post data =>
+<?xml version="1.0"?>
+<xml>
+  <mch_id>1230000109</mch_id>
+  <nonce_str>Fe3FYqpuqkQOjZsF</nonce_str>
+  <sign>E280BE1EA9D91F470411B3264561A5ED</sign>
+</xml>
+
+[info] 2021-01-24 19:17:20: [e3Vy2JOSzO6FEEsl]receive data =>
+<xml>
+  <return_code><![CDATA[FAIL]]></return_code>
+  <retmsg><![CDATA[请确认请求参数是否正确merchant invalid mch_id(1230000109)]]></retmsg>
+  <retcode><![CDATA[1]]></retcode>
+</xml>
+
+[error] 2021-01-24 19:17:20: receive data => {"return_code":"FAIL","retmsg":"请确认请求参数是否正确merchant invalid mch_id(1230000109)","retcode":"1"}
+[error] 2021-01-24 19:17:20: pay err Error: XMLDataError
+[info] 2021-01-24 19:18:04: [dtttmibIHfIu6jZt]post data =>
+<?xml version="1.0"?>
+<xml>
+  <mch_id>1230000109</mch_id>
+  <nonce_str>Ojz5knhIUtXzGdWQ</nonce_str>
+  <sign>3D2E5D2E6D45C951CA390CD542085B46</sign>
+</xml>
+
+[info] 2021-01-24 19:18:35: [dtttmibIHfIu6jZt]receive data =>
+<xml>
+  <return_code><![CDATA[FAIL]]></return_code>
+  <retmsg><![CDATA[请确认请求参数是否正确merchant invalid mch_id(1230000109)]]></retmsg>
+  <retcode><![CDATA[1]]></retcode>
+</xml>
+
+[error] 2021-01-24 19:18:35: receive data => {"return_code":"FAIL","retmsg":"请确认请求参数是否正确merchant invalid mch_id(1230000109)","retcode":"1"}
+[error] 2021-01-24 19:18:35: pay err Error: XMLDataError

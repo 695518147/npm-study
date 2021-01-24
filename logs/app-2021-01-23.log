@@ -1,0 +1,12 @@
+{"time":"2021-01-23 19:55:25","pid":36117,"level":"info","message":"getaddrinfo ENOTFOUND www.baidu.com1"}
+{"time":"2021-01-23 19:58:22","pid":36400,"level":"error","message":"getaddrinfo ENOTFOUND www.baidu.com1"}
+error: 2021-01-23 20:01:18: getaddrinfo ENOTFOUND www.baidu.com1
+error: 2021-01-23 20:04:18: message=>getaddrinfo ENOTFOUND www.baidu.com1
+error: 2021-01-23 20:40:26: message=> getaddrinfo ENOTFOUND www.baidu.com1
+error: 2021-01-23 20:48:35: message=> undefined is not a valid uri or options object.
+error: 2021-01-23 20:49:24: message=> undefined is not a valid uri or options object.
+error: 2021-01-23 20:49:40: message=> undefined is not a valid uri or options object.
+error: 2021-01-23 20:50:25: message=> undefined is not a valid uri or options object.
+error: 2021-01-23 20:51:02: message=> undefined is not a valid uri or options object.
+error: 2021-01-23 21:33:22: message=> Cannot read property 'debug' of undefined
+error: 2021-01-23 21:33:43: message=> undefined is not a valid uri or options object.
